@@ -5,7 +5,7 @@
 <head>
     <title>Tic-Tac-Toe</title>
     <link href="static/main.css" rel="stylesheet">
-    <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+    <%@ taglib prefix="c" uri="jakarta.tags.core" %>
 </head>
 <body>
 <h1>Tic-Tac-Toe</h1>
